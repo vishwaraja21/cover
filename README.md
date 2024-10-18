@@ -152,10 +152,10 @@ book.html
 ```
 
 ## OUTPUT:
-![image](https://github.com/priyadharshini210/cover/assets/148514638/4ed695d3-5383-4f3e-9d99-4ff63c0202a6)
+![image](https://github.com/user-attachments/assets/8f65e679-e810-48cb-bb28-dbce99178f94)
 
-## CODE:
-![image](https://github.com/priyadharshini210/cover/assets/148514638/cabf1c36-a24f-45f0-9b91-4bc2bac10e6b)
+
+
 
 
 
