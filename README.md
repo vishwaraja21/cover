@@ -138,7 +138,7 @@ book.html
                 <hr style="color:rgb(10, 10, 10);">
             </div>
             <div class="author">
-                <p><b>PRIYADHARSHINI.P</b></p>
+                <p><b>Vishwaraja R</b></p>
             </div>
             <div class="pub">
                 SEC
